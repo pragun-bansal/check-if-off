@@ -1,0 +1,7 @@
+[submodule "client"]
+    path = frontend
+    url = https://github.com/pragun-bansal/frontend-ToDo-App.git
+
+[submodule "server"]
+    path = backend
+    url = https://github.com/pragun-bansal/backend-ToDo-App.git
